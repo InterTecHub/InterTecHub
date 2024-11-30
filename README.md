@@ -51,7 +51,7 @@ Here’s how this repository is organized:
 ## 💡 Contact Us  
 If you have any questions or need assistance, reach out via:
 - **Youtube**: [Intertechub Official youtube](www.youtube.com/@intertechub)
-- **Telegram**: [Join Our Telegram]([https://slack.com/intertechub](https://t.me/Intertechub_ch))  
+- **Telegram**: [Join Our Telegram](https://t.me/Intertechub_ch) 
 - **Email**: [support@intertechub.com](mailto:support@intertechub.com)  
 - **Website**: [Intertechub Official Site](https://intertechub.com)
 - **X**: [Intertechub official twitter](https://x.com/intertechub)
